@@ -1,1 +1,1 @@
-# basic-web
+# Simple web for news
